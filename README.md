@@ -1,16 +1,31 @@
-## Hi there 👋
+# Studio CHOTTO Bit
 
-<!--
-**studio-chotto-bit/studio-chotto-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIを活用して、顧客がお金を払う価値のある商品を作り、継続的な収益を生み出す小規模デジタルビジネス。オーナー（人間1名）と複数のAIで運営する。
 
-Here are some ideas to get you started:
+このリポジトリはスタジオの**作業場所**である。公開・販売は note などのプラットフォームで行い、読者・購入者をこのリポジトリへ誘導することはしない（詳細は [company/policy.md](company/policy.md)）。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 構成
+
+| 場所 | 内容 |
+|---|---|
+| [company/](company/) | 会社方針（policy.md）とAI共通ルール（ai-role.md） |
+| [products/](products/) | 製品ごとの原稿・調査資料・サムネイル・状態記録 |
+| [assets/](assets/) | 共通素材（キャラクター「まる」など） |
+| [templates/](templates/) | 新製品のひな形 |
+
+## 製品（有料 note 記事）
+
+| 製品 | テーマ | 状態 |
+|---|---|---|
+| P30『必要なのは、Attentionだけだった』 | Transformer 論文を AI 初心者向けに | 移行中 |
+| P31『「1万分の1」の手は、2つあった』 | AlphaGo 対 李世乭の検証 | 移行中 |
+| P32『もし私たちがクビになったら？』 | インテルの DRAM 撤退 | 移行中 |
+| P33『正当な解任は、なぜ5日で覆ったのか』 | OpenAI 解任劇 | 移行中 |
+| P34『インターネットは津波だ』 | ゲイツ「Internet Tidal Wave」メモ | 移行中 |
+| P35『3人の会社に、なぜ4,400万ドルの値が付いたのか』 | DNNresearch オークション | 移行中 |
+
+各製品の詳細・状態は、それぞれの `products/` フォルダ内の README.md と STATUS.md を参照。
+
+## 沿革
+
+- 2026-10-27：個人リポジトリ（旧スタジオまあね）から事業用アカウントへ移行を開始。過去の議論（Discussions）や対象外プロダクトは旧リポジトリにアーカイブとして残置する。
