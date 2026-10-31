@@ -20,5 +20,6 @@
 - `maru-sky-gpt.png` — スカイブルー（別生成版）。
 - `maru-lavender.png` — ラベンダー。
 - `maru-lemon.png` — レモンイエロー。
+- `maru-gray.png` — グレー。
 
 いずれも 1024×1024、顔と構図は元のピーチ版と同一。
