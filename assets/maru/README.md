@@ -17,9 +17,11 @@
 - `maru-rose.png` — ローズ。ピーチの調整版（肌色に見えないよう、色相をピンク方向へ寄せて彩度を上げたもの）。
 - `maru-mint.png` — ミントグリーン。
 - `maru-sky.png` — スカイブルー。
-- `maru-sky-gpt.png` — スカイブルー（別生成版）。
 - `maru-lavender.png` — ラベンダー。
 - `maru-lemon.png` — レモンイエロー。
-- `maru-gray.png` — グレー（シルバーグレー）。**2026-10-31 から公式アイコンとして採用**：X / Instagram / Threads / note（@chotto_bit）。
+- `maru-navy.png` — ネイビー。
+- `maru-gray.png` — グレー（シルバーグレー）。**2026-10-31 から公式アイコンとして採用**：X / Instagram / Threads / GitHub / note（@chotto_bit）。
+- `maru-darkgray.png` — 濃いグレー（チャコール）。
+- `maru-black.png` — ブラック。
 
-いずれも 1024×1024、顔と構図は元のピーチ版と同一。
+いずれも 1024×1024、顔と構図は元のピーチ版と同一（ネイビー・濃いグレー・ブラックは目と口を白抜き）。
