@@ -14,12 +14,12 @@
 
 まるは色を変えられる設定。登場するシーンや画像に合わせて色を変えてよく、テーマ画像ごとに色を統一する必要はない。
 
-- `maru-rose.png` — ローズ。ピーチの調整版（肌色に見えないよう、色相をピンク方向へ寄せて彩度を上げたもの）。**2026-10-31 から公式アイコンとして採用**：X / Instagram / Threads / note（@chotto_bit）。
+- `maru-rose.png` — ローズ。ピーチの調整版（肌色に見えないよう、色相をピンク方向へ寄せて彩度を上げたもの）。
 - `maru-mint.png` — ミントグリーン。
 - `maru-sky.png` — スカイブルー。
 - `maru-sky-gpt.png` — スカイブルー（別生成版）。
 - `maru-lavender.png` — ラベンダー。
 - `maru-lemon.png` — レモンイエロー。
-- `maru-gray.png` — グレー。
+- `maru-gray.png` — グレー（シルバーグレー）。**2026-10-31 から公式アイコンとして採用**：X / Instagram / Threads / note（@chotto_bit）。
 
 いずれも 1024×1024、顔と構図は元のピーチ版と同一。
