@@ -1,6 +1,6 @@
 # P39 一次資料・裏取りリスト（sources.md）
 
-- 調査日：2026-11-08（企画段階の先行裏取り。原稿化の直前に再確認すること）
+- 調査日：2026-11-08（企画段階の先行裏取り。原稿化の直前に再確認すること）。同日、裏取りラウンド1を実施し、統合メモの優先リスト8件の結果を本ファイルの各項目へ反映した（詳細は `research/factcheck-round1-2026-11-08.md`）
 - 元資料：`p39/brief-2026-11-08.md`（企画書）
 - タグの定義：
   -  ＝ 当事者の公式発表・公式ブログ・公式ドキュメント・IR／裁判資料
@@ -33,15 +33,15 @@
 - 主張：登録は「4億超」が 2021年の Epic v. Apple 判決の認定事実および 2022-12 の FTC 発表で用いられた。
   - 確認先（一次候補）：米連邦地裁判決文（Case 4:20-cv-05640-YGR, Dkt. 812）、FTC プレスリリース（2022-12）
   - 出典 ：同上まとめ
-  - 状態：要確認（判決文・FTC 原文で該当箇所を引くこと）
+  - 状態：一次確認可（2026-11-08 ラウンド1で格上げ）。判決文（Rule 52 Order、Dkt. 812、2021-09-10）の事実認定に「over 400 hundred million registered players worldwide」と明記。FTC プレスリリース（2022-12-19）にも「more than 400 million」の記載を確認。詳細は research/factcheck-round1-2026-11-08.md の項目8
 - 主張：2023-03 の UEFN 発表時点で、Epic は「5億を超えるプレイヤーアカウント」を表明した。
   - 確認先（一次候補）：Unreal Engine 公式ブログ／Epic 発表文（2023-03-22）
   - 出典 ：Music Business Worldwide（Epic 発表を引用）https://www.musicbusinessworldwide.com/epic-games-to-share-40-of-fortnite-purchase-revenue-with-island-creators123/
-  - 状態：報道で一致
+  - 状態：一次確認可（2026-11-08 ラウンド1で格上げ）。UEFN 公式ブログ（2023-03-22）原文に「Fortnite player accounts currently over 500 million」を確認。詳細は factcheck-round1 の項目4
 - 主張：MAU は 2018-08 に 7,830万（Epic 公表値として広く引用）。2023年のホリデーシーズンには月間アクティブ 1.1億（Tim Sweeney が Unreal Fest 2024 で言及）。
   - 確認先（一次候補）：Epic 公式ブログ（2018年）、Unreal Fest 2024 講演（GI.biz 報道）
   - 出典 ：IGN 系まとめ／Unreal Fest 報道 https://worldclassservers.net/blog/2024/10/02/after-laying-off-830-employees-tim-sweeney-says-fortnite-maker-epic-is-now-financially-sound/
-  - 状態：1.1億は報道で一致。7,830万の一次出所は要確認
+  - 状態：1.1億は報道で一致。7,830万は一次確認可（2026-11-08 ラウンド1で格上げ）。一次出所は Epic 公式ブログ（2018-09-20、Fall Skirmish 発表）の「August was Fortnite's biggest month yet, with 78.3 million of you showing up to play.」。Epic 自身は「MAU」とは呼んでおらず「その月に遊んだ人数」の表現。詳細は factcheck-round1 の項目8
 - 主張：「MAU 1.26億（2023年）」という数字が統計サイトに流通している。
   - 出典 ：集計サイト群（activeplayer.io 等を引用）
   - 状態：推計（出所が弱い。本文では使わない方針を推奨）
@@ -59,7 +59,7 @@
 - 主張：シーズン終了イベント「Galactus」（2020-12-01）の同時接続は1,530万人で、フォートナイトの同時接続記録とされる。Disney の 2024-02 発表資料でもこの数字が引用された。
   - 確認先（一次候補）：Epic 公式発表（2020-12）
   - 出典 ：Disney 発表を報じるまとめ（数字の引用あり）http://umatechnology.org/could-disney-have-bought-epic-games-in-the-1-5-billion-fortnite-deal/
-  - 状態：報道で一致（原典は要確認）
+  - 状態：一次確認可（2026-11-08 ラウンド1で格上げ）。Disney 公式プレスリリース（2024-02-07、Business Wire）に「the Marvel Nexus War with Galactus, which drew more than 15.3 million concurrent players」と明記されているのを確認。詳細は factcheck-round1 の項目2
 - 主張：「Fortnite OG」開始直後の 2023-11-04 は「フォートナイト史上最大の日」で、プレイヤー4,470万人・プレイ時間1.02億時間（Epic 公式X）。
   - 確認先：Epic 公式X（@Fortnite）2023-11-05 のポスト
   - 出典 ：Kotaku https://kotaku.com/fornite-og-map-season-chapter-4-update-1850990645/ ／ Dot Esports https://dotesports.com/fortnite/news/fortnite-surpasses-100-million-hours-played-in-one-day-with-the-return-of-og-island
@@ -72,7 +72,7 @@
 
 - 主張：Epic v. Apple の裁判資料から、フォートナイトの収益は 2018年と2019年の合計で90億ドル超と報じられた。
   - 確認先（一次候補）：裁判提出資料（エキシビット）
-  - 状態：要確認（本文で使う場合は判決文・提出資料の該当箇所を特定すること）
+  - 状態：部分確認（2026-11-08 ラウンド1）。該当資料は特定できた：公判初日（2021-05-03）に示された Epic の財務プレゼンテーション（2020年1月時点、DocumentCloud 文書番号 20696836）。2018年 約54億ドル＋2019年 約37億ドル＝90億ドル超という数字は複数媒体が当該資料から報じている。ただし PDF 原本の直接読み取りはアクセス制限で未了のため、**単独の確定数字としては使わず、使用時は出所明示＋原稿化最終段階で原本再確認**。詳細は factcheck-round1 の項目7
 
 ---
 
@@ -93,10 +93,10 @@
 - 主張：Creator Economy 2.0 の「エンゲージメントペイアウト」は、アイテムショップと大半のリアルマネー購入の**純収益の40%**をプールし、対象アイランド（独立クリエイターの島と、Epic 自身の Battle Royale 等の島を含む）の人気・定着・新規プレイヤー獲得などの指標に応じて月次で分配する。留保は 2023-03-01 分から開始。
   - 確認先：Unreal Engine 公式ブログ（同上）／Epic 公式の Creator Economy 2.0 説明
   - 出典 ：VGC https://www.videogameschronicle.com/news/epic-launches-unreal-editor-for-fortnite-alongside-new-creator-economy/
-  - 状態：一次確認可（公式ブログで照合済み）。留意：「収益の40%還元」と短く書くと誤解を招く。**純収益の40%をプールして指標配分**が正確で、個々のクリエイターの取り分率ではない
+  - 状態：一次確認可（公式ブログで照合済み。2026-11-08 ラウンド1で原文を再照合し、定義を確定：「Engagement payouts proportionally distribute 40% of the net revenue from Fortnite's Item Shop and most real-money Fortnite purchases to the creators of eligible islands and experiences, both islands from independent creators and Epic's own such as Battle Royale.」）。留意：「収益の40%還元」と短く書くと誤解を招く。**純収益の40%をプールして指標配分**が正確で、個々のクリエイターの取り分率ではない
 - 主張：2023年時点で、プレイ時間の40%超がクリエイター製アイランドで消費され、アイランド総数は100万を超えていたとされる。
   - 確認先（一次候補）：Epic 公式発表（State of Unreal 2023）
-  - 状態：要確認（時点と定義を原典で特定すること）
+  - 状態：一次確認可（2026-11-08 ラウンド1で格上げ）。原典は UEFN 公式ブログ（2023-03-22）で、「more than one million player-built islands」「more than 40% of player game time in Fortnite is spent in creator-built content」と明記。推移データについては、連続時系列は非公表だが公式の定期開示「Fortnite Ecosystem 2024 Year in Review」（2025-01-22）があり、2024年はクリエイター製ゲームの時間が52.3億時間＝全体の36.5%、支払総額3億5,200万ドル等を確認。定義の違い（2023年は player game time の割合）があるため、推移として使う場合は時点と定義を併記すること。詳細は factcheck-round1 の項目4
 
 ### 「ゲームの中のゲーム」の統合
 
@@ -121,7 +121,7 @@
 - 主張：2024-02-07、Disney は Epic Games へ15億ドルの出資（株式取得）を発表。複数年にわたる協業で、Fortnite と相互運用する「まったく新しいゲームとエンターテインメントの宇宙」を作るとした。消費者は Disney／Pixar／Marvel／Star Wars／Avatar のコンテンツで「遊び、観て、買い、参加する（play, watch, shop, engage）」ことができ、ファン自身が物語や体験を作って共有できる、とされた。エンジンは Unreal Engine。Iger CEO は「Disney にとって過去最大のゲーム分野への参入」と述べ、Sweeney は「永続的で開かれた相互運用可能なエコシステム」と表現した。出資は規制承認等の通常の完了条件付き。
   - 確認先：Disney 公式プレスリリース（2024-02-07）／Epic 公式発表
   - 出典 ：Disney 発表文を引用する各報道 https://www.marketing-interactive.com/disney-epic-games-gaming-universe ほか多数で一致
-  - 状態：一次確認可（発表文の骨子は複数の引用で照合済み。原稿引用時は公式原文で最終確認）
+  - 状態：一次確認可（2026-11-08 ラウンド1で Business Wire の公式リリース原文を全文照合済み。https://www.businesswire.com/news/home/20240207879854/en/ ）。詳細は factcheck-round1 の項目3
 - 主張：この出資時の Epic の評価額は約225億ドルだったと報じられた（2022年の約315億ドルから低下）。
   - 出典 ：The Information／Reuters 系の報道（評価額は当事者未公表）
   - 状態：報道ベース（本文では「報じられた」と明記すること）
@@ -131,7 +131,7 @@
 - 主張：Disneyland Game Rush は 2025-11 に公開された、Disneyland 70周年を題材にした Fortnite Creative アイランド（Space Mountain や Haunted Mansion を模したミニゲーム群）。
   - 確認先（一次候補）：Disney Parks 公式ブログ／Epic 公式
   - 出典 ：TechRadar https://www.techradar.com/streaming/entertainment/a-first-step-not-a-finish-line-disney-and-epic-games-have-connected-disney-worlds-and-disneylands-millennium-falcon-smugglers-run-to-a-brand-new-star-wars-adventure-in-fortnite
-  - 状態：報道で一致（Disney Parks 公式の原典は要確認）
+  - 状態：一次確認可（2026-11-08 ラウンド1で格上げ）。Disney Parks Blog 公式記事「Celebrate 70 Years of Disneyland in Fortnite」を確認（アイランドコード 4617-4819-8826）。https://disneyparksblog.com/disney-experiences/celebrate-70-years-of-disneyland-with-new-fortnite-experience/ 詳細は factcheck-round1 の項目5
 - 主張：2025-11-30、クエンティン・タランティーノの短編『The Lost Chapter: Yuki's Revenge』（『キル・ビル』の未撮影章）がフォートナイト内でプレミア上映された。Unreal Engine と MetaHuman 等で制作され、Uma Thurman が出演。11-19 にはロサンゼルスの Vista Theatre で試写イベントも開かれ、12-05 からは劇場でも併映された。
   - 確認先（一次候補）：Epic 公式ブログ「Fortnite Now Playing」（2025-11）
   - 出典 ：TheWrap https://www.thewrap.com/fortnite-kill-bill-yukis-revenge-quentin-tarantino-uma-thurman/ ／ NME https://www.nme.com/news/gaming-news/uma-thurman-praises-kill-bill-fortnite-revival-lost-chapter-yuki-revenge-3914357
@@ -139,7 +139,7 @@
 - 主張：2026-08-16 から、実際のパーク（Galaxy's Edge）の体験とフォートナイト内のアイランド「Smugglers Gambit」をつなぐ企画が開始（My Disney Experience アプリでミッションを受け、ライド体験とゲームが連動）。Disney 側の担当者は「第一歩であり、ゴールではない」と位置づけた。
   - 確認先（一次候補）：Disney Parks 公式発表（2026-08）
   - 出典 ：TechRadar（同上、Disney 担当者インタビュー）
-  - 状態：報道で一致
+  - 状態：一次確認可（2026-11-08 ラウンド1で格上げ）。Disney Parks Blog 公式記事「Smuggler's Gambit Connects Disney Parks and Fortnite」（2026-08-15）を確認。https://disneyparksblog.com/disney-experiences/smugglers-gambit-fortnite-disney/ 詳細は factcheck-round1 の項目5
 
 ### 常設ユニバースの「遅れ」をめぐる報道（すべて報道ベース）
 
@@ -152,7 +152,7 @@
 - 主張：2026-10-12、Bloomberg（Jason Schreier）は、同シューターの目標が後退し新日程は示されていないこと、開発チームに「AIファースト」への転換（手書きコードの廃止やAIワークフローによるアート生成を含む、とされる内部指示）が伝えられたことを報じた。Epic 広報は「AI を活用した開発を取り入れている」旨を認めるコメントを出した。同日、Sweeney は X で「Epic では大きな転換が進行中（huge pivot）」「最大限の AI 加速のための再編」と公に述べた。Disney はコメントを避けたとされる。
   - 確認先（公式部分）：Sweeney の X 投稿（2026-10-12）／Epic 広報コメント（Bloomberg 記事内）
   - 出典 ：Bloomberg（2026-10-12）／Ars Technica・The Verge・PC Gamer 等の要約報道 https://www.zeniteq.com/epic-games-reportedly-pivots-disney-project-to-ai-first-orlssi
-  - 状態：**要注意**。遅延と AI 転換の詳細は匿名情報源ベースの報道。公式に確認できるのは「AI 加速への再編が進行中」という Sweeney の表明まで。本文では報道と公式表明を厳密に分けること
+  - 状態：**要注意**。遅延と AI 転換の詳細は匿名情報源ベースの報道。公式に確認できるのは「AI 加速への再編が進行中」という Sweeney の表明まで。本文では報道と公式表明を厳密に分けること。（2026-11-08 ラウンド1で追加確認：Epic 広報 Jake Jones の公式コメント「We're embracing AI-accelerated development, led by Epic developers who are the visionaries and creative drivers for everything we do.」と、Sweeney の同日 X 投稿「We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration.」の文面は複数媒体の同一引用で確認。Bloomberg 原文全文は有料壁のため未読。遅延そのものは Epic 公式には未確認。詳細は factcheck-round1 の項目6）
 - 主張：常設ユニバースそのものについて、2026-11-08 時点で公式の公開日・タイトルは発表されていない。
   - 状態：一次確認可（不在の確認。原稿化直前に再確認すること）
 
@@ -196,16 +196,16 @@
   - 確認先（一次候補）：Waymo 公式ブログ／DeepMind 公式
   - 出典 ：Ars Technica（2026-02-07）／PCMag（2026-02-06）
   - 状態：報道で一致
-- 主張：Genie 4 は 2026-10-27 に DeepMind が公式ブログ「Genie 4: A new generation of world simulation」で発表したとされる。主な新要素は、世界と同時に音（環境音・音楽・対話）をネイティブ生成すること、実行中の世界へのテキストでの介入、Gemini モデルとの連携による一貫性の維持で、提供はまず trusted tester 向けの研究プレビュー、続いて Project Genie（AI Ultra）と Gemini API／AI Studio の早期アクセスパートナーへの拡大が予告された。解像度・fps 等の詳細仕様は発表で明示されていない（最大30fpsとの記述は Wikipedia 等の二次情報）。
-  - 確認先（一次候補）：DeepMind 公式ブログ（2026-10-27）——Wikipedia「Genie (world model)」が当該公式記事を参照しており、TechCrunch も同日に報じた https://en.wikipedia.org/wiki/Genie_(world_model)
-  - 状態：**要注意・公式原典の直接照合は未了**。複数メディアが DeepMind 公式発表の存在を前提に報じているが、本調査では公式ブログ原文そのものを開いて照合できていない。P39 本文で Genie 4 に触れる場合は、執筆前に必ず公式原文（deepmind.google）で発表日・仕様・提供範囲を確認すること。それまでは「2026-10-27 に発表されたと報じられている」と書くのが上限
+- 主張：Genie 4 は 2026-10-27 に DeepMind が公式ブログ「Genie 4: A new generation of world simulation」で発表した。主な新要素は、世界と同時に音（環境音・音楽・対話）をネイティブ生成すること（リアルタイム世界モデルとして初）、実行中の世界への自然言語での介入、Gemini ファミリーとの連携（Gemini Omni による接地、Gemini 3.8 Flash がガイドエージェントとして一貫性を維持）で、提供はまず trusted tester 向けの研究プレビュー、続いて Project Genie（Google AI Ultra 加入者）と Gemini API／AI Studio の早期アクセスパートナーへの拡大が予告された。制約（短いセッション内でのみ一貫、詳細のドリフト、読める文字・空間的正確さ・長期の一貫性は研究途上）も公式に併記されている。**解像度・fps・セッション長などの数値仕様は公式発表に記載がない**（二次情報の「最大30fps」等は公式原文にないため使わない）。
+  - 確認先：DeepMind 公式ブログ（2026-10-27）https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+  - 状態：一次確認可（2026-11-08 ラウンド1で公式ブログ原文を直接照合済み）。本文での扱いは統合メモ 3-6 の決定どおり（Genie 3 と Project Genie を軸に、Genie 4 は公式原文の範囲内に限る）。詳細は factcheck-round1 の項目1
 
 ---
 
 ## 要注意項目まとめ（原稿化前に必ず解消）
 
 1. **ディズニー常設ユニバースの前提が動いている**：2024-02 の公式発表以降、公開日は一度も公式に示されていない。「2026年後半に公開」は WSJ 報道の「早くても2026年秋」が根拠で、2026-10 の Bloomberg 報道ではさらに後退したとされる。第3部は報道の変遷そのものを材料にし、断定を避けること。
-2. **Genie 4 の原典未照合**：上記のとおり。P40 の本格調査でも最優先で公式原文を確認する。
+2. **Genie 4 の原典未照合**：→ **解消（2026-11-08 ラウンド1）**。DeepMind 公式ブログ原文を直接照合済み。数値仕様（解像度・fps）は公式発表に記載がない点に注意。
 3. **数字の定義混在**：登録数・MAU・同時接続・1日のプレイヤー数は別指標。特に「4,470万人（1日のプレイヤー数）」を同時接続と誤記しないこと。「6.5億登録」は出所が弱く使用禁止。
 4. **40%の正確な表現**：「純収益の40%をプールし、指標に応じて分配」。「売上の40%がクリエイターに還元される」とは書かない。
-5. **Disneyland Game Rush／Smugglers Gambit の原典**：Disney Parks 公式ブログで裏を取ること（現状は TechRadar 等の報道経由）。
+5. **Disneyland Game Rush／Smugglers Gambit の原典**：→ **解消（2026-11-08 ラウンド1）**。両方とも Disney Parks Blog の公式記事を確認済み。本文では Parks Blog を出所に書くこと。

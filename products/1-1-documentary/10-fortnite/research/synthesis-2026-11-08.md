@@ -4,6 +4,7 @@
 - 返答：Qwen（discussion-qwen.md）／Grok（discussion-grok.md）／ChatGPT（discussion-chatgpt.md）／Gemini（discussion-gemini.md）／Claude（discussion-claude.md）
 - Discussion：https://github.com/studio-chotto-bit/studio-chotto-bit/discussions/4
 - 位置づけ：本メモは統合と推奨の提示まで。タイトル・構成・公開日などの決定は Akira が行う。
+- **決定ステータス：本メモ第3章の決定案は、2026-11-08 に Akira が承認した（「推奨で進めて」）。以降、第3章の内容は本企画の決定事項として扱う。**
 
 ---
 
