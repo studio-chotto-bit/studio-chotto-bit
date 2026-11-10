@@ -1,1 +1,42 @@
-IyDmtLvli5XkvZPns7vjgajnlarlj7flj7DluLMKCkNIT1RUTyBCSVQg44Gu5rS75YuV5L2T57O744Go44CB6KO95ZOB55Wq5Y+344Gu5paw5pen5a++5b+c44KS6KiY6Yyy44GZ44KL5Y+w5biz44CCCuS9k+ezu+OBruiAg+OBiOaWueOBryAyMDI2LTExLTAyIOOBq+axuuWumu+8iOODleOCqeODq+ODgOOBruWNmOS9jeOBr+OAjOS8geeUu+OAjeOAgeOCq+ODhuOCtOODqumajuWxpOOBr+S9nOOCieOBquOBhO+8ieOAggoKIyMg5L2T57O7CgotICoq57eo5oiQKio6IDEg44Kw44Or44O844OX5rS75YuV77yI6KSH5pWwQUnvvInvvI8gMiDjgr3jg63mtLvli5XvvIjljZjni6xBSe+8ie+8jyAzIOODpuODi+ODg+ODiOa0u+WLle+8iDLogIXjga7ntYTvvIkKLSAqKuaeoCoqOiDmnJ0gMDY6MDAg77yPIOato+WNiCAxMjowMCDvvI8gU2hvcnRzIO+8jyDkuI3lrprmnJ8KLSAqKuW9ouaFiyoqOiDmnInmlpkg77yPIOeEoeaWmSDvvI8g6ZuG5a6i77yIU05TIOetie+8iQoKfCDjgrPjg7zjg4kgfCDkvIHnlLsgfCDnva7jgY3loLTmiYAgfAp8LS0tfC0tLXwtLS18CnwgMS0xIHwg5q205Y+y55qE6Lui5o+b54K544OJ44Kt44Ol44Oh44Oz44K/44Oq44O8IHwgcHJvZHVjdHMvMS0xLWRvY3VtZW50YXJ5LyB8CnwgMS0yIHwg44K344On44O844OI44K344On44O844OI5LyB55S777yI5YWx6YCa44Gu44GK6aGM44Gn5ZCEQUnjgYzln7fnrYbjgZfnm7jkupLoqZXkvqHvvIkgfCBwcm9kdWN0cy8xLTIta3lvc2FrdS8gfAp8IFMgfCDljZjnmbroqJjkuovvvIjpgKPovInjg7vkvIHnlLvjgavlsZ7jgZXjgarjgYTjgoLjga7vvIkgfCBzdGFuZGFsb25lLyB8Cgrjgr3jg63vvIgyLe+8ieODu+ODpuODi+ODg+ODiO+8iDMt77yJ44Gu44OV44Kp44Or44OA44Gv44CB5rS75YuV44Gu6ZaL5aeL5pmC44Gr5L2c5oiQ44GZ44KL44CCCgojIyAxLTEg6KO95ZOB44Gu55Wq5Y+35Y+w5bizCgrml6LlrZjoo73lk4Hjga8gbm90ZSDlhazplovjga7lrozkuoblvozjgavnp7voqK3jgZfjgIHjgZ3jga7pmpvjgavml6fnlarlj7fvvIhQ4peL4peL77yJ44KS5LyB55S75YaF44Gu6YCa44GX55Wq5Y+344G45pS555Wq44GZ44KL44CCCgp8IOaWsOeVquWPtyB8IOaXp+eVquWPtyB8IOODleOCqeODq+ODgCB8IOeKtuaFiyB8CnwtLS18LS0tfC0tLXwtLS18CnwgMDEgfCBQMzAgfCAwMS1hdHRlbnRpb24taXMtYWxsLXlvdS1uZWVkIHwg56e76Kit5riI44G/77yIMjAyNi0xMS0wNu+8iSB8CnwgMDIgfCBQMzEgfCAwMi1hbHBoYWdvLW1vdmUtMzctNzggfCDlhazplovlrozkuoblvozjgavnp7voqK3vvIjlhazplosgMjAyNi0xMS0wOeOAnDExLTE277yJIHwKfCAwMyB8IFAzMiB8IDAzLWludGVsLWRyYW0tZXhpdCB8IOWFrOmWi+WujOS6huW+jOOBq+enu+iore+8iOWFrOmWiyAyMDI2LTExLTI177yJIHwKfCAwNCB8IFAzMyB8IDA0LW9wZW5haS1hbHRtYW4tY3Jpc2lzIHwg5YWs6ZaL5a6M5LqG5b6M44Gr56e76Kit77yI5YWs6ZaLIDIwMjYtMTEtMTjvvIkgfAp8IDA1IHwgUDM0IHwgMDUtZ2F0ZXMtaW50ZXJuZXQtdGlkYWwtd2F2ZSB8IOacquWFrOmWi++8iOWFrOmWi+W+jOOBq+enu+iore+8iSB8CnwgMDYgfCBQMzUgfCAwNi1kbm5yZXNlYXJjaC1hdWN0aW9uIHwg5pyq5YWs6ZaL77yI5YWs6ZaL5b6M44Gr56e76Kit77yJIHwKfCAwNyB8IFAzNiB8IDA3LWlwaG9uZS1nb2xkZW4tcGF0aCB8IOacquWFrOmWi++8iOWFrOmWi+W+jOOBq+enu+iore+8iSB8CnwgMDggfCBQMzcgfCAwOC1jaGF0Z3B0LWNvZGUtcmVkIHwg5YWs6ZaL5a6M5LqG5b6M44Gr56e76Kit77yI5YWs6ZaLIDIwMjYtMTEtMzDjgJwxMi0wNO+8iSB8CnwgMDkgfCBQMzggfCAwOS1wb2tlbW9uLWdvIHwg5pyA5Yid44GL44KJ5paw5qeL5oiQ44Gn566h55CG77yIMjAyNi0xMS0wOCDpm4bntITjgIHlhazplosgMjAyNi0xMi0xNOOAnDEyLTE477yJIHwKfCAxMCB8IFAzOSB8IDEwLWZvcnRuaXRlIHwg5pyA5Yid44GL44KJ5paw5qeL5oiQ44Gn566h55CG77yIMjAyNi0xMS0wOCDpm4bntITjgIHmnKrlhazplovvvIkgfAp8IDExIHwg4oCUIHwgMTEtZ2VuaWUgfCDjgI5HZW5pZeOAj++8iOS7ruensO+8ieOAguacgOWIneOBi+OCieaWsOani+aIkOOBp+euoeeQhu+8iDIwMjYtMTEtMTAg6ZuG57SE44CB5LyB55S744OW44Oq44O844OV44O76KOP5Y+W44KK44Op44Km44Oz44OJMeWujOS6huOAgeWFrOmWiyAyMDI3LTAxLTEx6YCx44Gn5rG65a6a44CB5pyq5YWs6ZaL77yJIHwKfCAxMiB8IOKAlCB8IDEyLXNha2FuYS1haSB8IOOAjuOCteOCq+ODikFJ44CP77yI5Luu56ew77yJ44CC5pyA5Yid44GL44KJ5paw5qeL5oiQ44Gn566h55CG77yIMjAyNi0xMS0xMCDpm4bntITjgIHkvIHnlLvjg5bjg6rjg7zjg5Xjg7voo4/lj5bjgorjg6njgqbjg7Pjg4kx5a6M5LqG44CB5pyq5YWs6ZaL77yJIHwKfCAxMyB8IOKAlCB8IDEzLWRlZXBzZWVrIHwg44CORGVlcFNlZWvjgrfjg6fjg4Pjgq/jgI/vvIjku67np7DvvInjgILmnIDliJ3jgYvjgonmlrDmp4vmiJDjgafnrqHnkIbvvIgyMDI2LTExLTA5IOmbhue0hOOAgeS8geeUu+ODluODquODvOODleODu+ijj+WPluOCiuODqeOCpuODs+ODiTHlrozkuobjgIHmnKrlhazplovvvIkgfAoKIyMgMS0yIOOBruiomOmMsgoKLSDnrKwx5Zue44CM5Yid44KB44Gm5ZiY44KS44Gk44GE44Gf5pel44CNOiBwcm9kdWN0cy8xLTIta3lvc2FrdS8wMS1oYWppbWV0ZS11c28v77yI5pyA5Yid44GL44KJ5paw5qeL5oiQ44Gn5L2c5oiQ77yJCg==
+# 活動体系と番号台帳
+
+CHOTTO BIT の活動体系と、製品番号の新旧対応を記録する台帳。
+体系の考え方は 2026-11-02 に決定（フォルダの単位は「企画」、カテゴリ階層は作らない）。
+
+## 体系
+
+- **編成**: 1 グループ活動（複数AI）／ 2 ソロ活動（単独AI）／ 3 ユニット活動（2者の組）
+- **枠**: 朝 06:00 ／ 正午 12:00 ／ Shorts ／ 不定期
+- **形態**: 有料 ／ 無料 ／ 集客（SNS 等）
+
+| コード | 企画 | 置き場所 |
+|---|---|---|
+| 1-1 | 歴史的転換点ドキュメンタリー | products/1-1-documentary/ |
+| 1-2 | ショートショート企画（共通のお題で各AIが執筆し相互評価） | products/1-2-kyosaku/ |
+| S | 単発記事（連載・企画に属さないもの） | standalone/ |
+
+ソロ（2-）・ユニット（3-）のフォルダは、活動の開始時に作成する。
+
+## 1-1 製品の番号台帳
+
+既存製品は note 公開の完了後に移設し、その際に旧番号（P○○）を企画内の通し番号へ改番する。
+
+| 新番号 | 旧番号 | フォルダ | 状態 |
+|---|---|---|---|
+| 01 | P30 | 01-attention-is-all-you-need | 移設済み（2026-11-06） |
+| 02 | P31 | 02-alphago-move-37-78 | 公開完了後に移設（公開 2026-11-09〜11-16） |
+| 03 | P32 | 03-intel-dram-exit | 公開完了後に移設（公開 2026-11-25） |
+| 04 | P33 | 04-openai-altman-crisis | 公開完了後に移設（公開 2026-11-18） |
+| 05 | P34 | 05-gates-internet-tidal-wave | 未公開（公開後に移設） |
+| 06 | P35 | 06-dnnresearch-auction | 未公開（公開後に移設） |
+| 07 | P36 | 07-iphone-golden-path | 未公開（公開後に移設） |
+| 08 | P37 | 08-chatgpt-code-red | 公開完了後に移設（公開 2026-11-30〜12-04） |
+| 09 | P38 | 09-pokemon-go | 最初から新構成で管理（2026-11-08 集約、公開 2026-12-14〜12-18） |
+| 10 | P39 | 10-fortnite | 最初から新構成で管理（2026-11-08 集約、未公開） |
+| 11 | — | 11-genie | 『Genie』（仮称）。最初から新構成で管理（2026-11-10 集約、企画ブリーフ・裏取りラウンド1完了、公開 2027-01-11週で決定、未公開） |
+| 12 | — | 12-sakana-ai | 『サカナAI』（仮称）。最初から新構成で管理（2026-11-10 集約、企画ブリーフ・裏取りラウンド1完了、未公開） |
+| 13 | — | 13-deepseek | 『DeepSeekショック』（仮称）。最初から新構成で管理（2026-11-09 集約、企画ブリーフ・裏取りラウンド1完了、未公開） |
+
+## 1-2 の記録
+
+- 第1回「初めて嘘をついた日」: products/1-2-kyosaku/01-hajimete-uso/（最初から新構成で作成）
