@@ -4,7 +4,7 @@ AIを活用して、顧客がお金を払う価値のある商品を作り、継
 
 このリポジトリはスタジオの**作業場所**である。公開・販売は note などのプラットフォームで行い、読者・購入者をこのリポジトリへ誘導することはしない（詳細は [company/policy.md](company/policy.md)）。
 
-最終更新：2026-11-19
+最終更新：2026-11-23
 
 ## 構成
 
@@ -26,7 +26,7 @@ AIを活用して、顧客がお金を払う価値のある商品を作り、継
 | 1-1 | [P31『「1万分の1」の手は、2つあった』](products/1-1-documentary/02-alphago-move-37-78/) | AlphaGo 対 李世乭、10年目の検証 | **完結**（2026-11-16 に第3部＋有料パートを公開し全話完結、価格 ¥500）。全話リンク集は 11-17 公開、長尺動画も 11-17 に YouTube 公開。2026-11-19 に分類フォルダへ移設 |
 | 1-1 | [P32『「やめられない事業」をやめた日』](products/32-intel-dram-exit/) | インテルが「やめられない事業」をやめた日（DRAM 撤退） | DeepReview・ブラッシュアップ・note 下書き完了（下書きは新アカウント @chotto_bit）。2026-11-25 12:00 に無料＋有料を同時公開 |
 | 1-1 | [P33『アルトマン解任は、なぜ5日で覆ったのか』](products/1-1-documentary/04-openai-altman-crisis/) | OpenAI 解任劇と、組織を一人に預けるリスク | **公開完了**（2026-11-18 に無料部＋有料部を同時公開、価格 ¥500）。2026-11-19 に分類フォルダへ移設 |
-| 1-1 | [P34『インターネットは津波だ』](products/34-gates-internet-tidal-wave/) | ビル・ゲイツが「最優先」を書き換えた日 | DeepReview 完了（2026-11-08、指摘9件 Major 0／Minor 7／Suggestion 2）・ブラッシュアップ完了（有料部 10,087字）。残件は最終確認と note 下書き |
+| 1-1 | [P34『インターネットは津波だ』](products/34-gates-internet-tidal-wave/) | ビル・ゲイツが「最優先」を書き換えた日 | **公開完了**（2026-11-23 に無料部＋有料部を同時公開、価格 ¥500） |
 | 1-1 | [P35『3人の会社に、なぜ4,400万ドルの値が付いたのか』](products/35-dnnresearch-auction/) | DNNresearch オークション | DeepReview 完了（2026-11-08、指摘4件 Major 1／Minor 3）・ブラッシュアップ完了（有料部 9,006字）。残件はテーマ画像・最終確認と note 下書き |
 | 1-1 | [P36『「黄金のルート」』](products/36-iphone-golden-path/) | 初代 iPhone 発表デモと、本番の設計 | DeepReview 完了（2026-11-08、指摘12件 Major 1／Minor 7／Suggestion 4）・ブラッシュアップ完了（有料部 11,269字）。残件は最終確認と note 下書き |
 | 1-1 | [P37『「コード・レッド」』](products/37-chatgpt-code-red/) | ChatGPT 公開から、Google が出すまでの約2か月 | 原稿・5者レビュー・ブラッシュアップ・サムネイル完了。DeepReview 完了（2026-11-05、指摘16件のブラッシュアップ反映済み）。新ケイデンス（無料3部＋有料1部）の最初の製品。公開は 2026-11-30 開始（第1部 11-30／第2部 12-02／第3部＋有料 12-04） |
@@ -48,7 +48,7 @@ AIを活用して、顧客がお金を払う価値のある商品を作り、継
 ## 運営方針の要点
 
 - **公開ケイデンス**：P37 以降は 1製品 = 4記事（無料3部＋有料1部）を同一週の月・水・金 12:00 に公開する。有料回は直前の無料回と同時公開（詳細は [company/policy.md](company/policy.md)）。
-- **新製品の作り方**：事業用アカウントの Deep Research でテーマ収集 → ランキングと選定 → 記事作成＋各AIによるディスカッション（Discussions）→ DeepReview＋ブラッシュアップ。
+- **新製品の作り方**：事業用アカウントの Deep Research でテーマ収集 → ランキングと選定 → 記事作成＋各AIによるディスカッション（Discussions��→ DeepReview＋ブラッシュアップ。
 - **発信チャネル**：有料記事ラインの販売・公開は note（[@chotto_bit](https://note.com/chotto_bit)、2026-10-31 に旧アカウント dragongongon から移行。詳細は [company/note-account-migration-2026-10-31.md](company/note-account-migration-2026-10-31.md)）。小説連載は旧アカウント（[dragongongon](https://note.com/dragongongon)）に残す。SNS は X（@studiochottobit）／Instagram（studio_chotto.bit）／Threads（studio_chotto.bit）、表示名はいずれも「CHOTTO BIT」。SNS からのリンク先は note のみ。
 
 ## 沿革
@@ -68,3 +68,4 @@ AIを活用して、顧客がお金を払う価値のある商品を作り、継
 - 2026-11-17：P31 の全話リンク集を公開。長尺動画『「1万分の1」の手は、2つあった』を YouTube に公開。
 - 2026-11-18：**P33『アルトマン解任は、なぜ5日で覆ったのか』を公開**（無料部＋有料部を同時公開）。
 - 2026-11-19：**P31・P33 を分類フォルダへ移設**（02-alphago-move-37-78／04-openai-altman-crisis）。あわせて「まる」の新表情マスター4種（驚き／喜び／困った／決意）と動きの設計原則（assets/maru/motion-design-principles.md）、ミニキャラ「創」のモーション6本を assets へ追加。
+- 2026-11-23：**P34『インターネットは津波だ』を公開**（無料部＋有料部を同時公開、価格 ¥500）。
