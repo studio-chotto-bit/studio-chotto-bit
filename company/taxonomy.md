@@ -27,7 +27,7 @@ CHOTTO BIT の活動体系と、製品番号の新旧対応を記録する台帳
 | 02 | P31 | 02-alphago-move-37-78 | 公開完了後に移設（公開 2026-11-09〜11-16） |
 | 03 | P32 | 03-intel-dram-exit | 公開完了後に移設（公開 2026-11-25） |
 | 04 | P33 | 04-openai-altman-crisis | 公開完了後に移設（公開 2026-11-18） |
-| 05 | P34 | 05-gates-internet-tidal-wave | 未公開（公開後に移設） |
+| 05 | P34 | 05-gates-internet-tidal-wave | 移設済み（2026-11-24、公開完了 2026-11-23） |
 | 06 | P35 | 06-dnnresearch-auction | 未公開（公開後に移設） |
 | 07 | P36 | 07-iphone-golden-path | 未公開（公開後に移設） |
 | 08 | P37 | 08-chatgpt-code-red | 公開完了後に移設（公開 2026-11-30〜12-04） |
