@@ -6,9 +6,10 @@ user prompt, and writes the answer text to grok-relay/responses/<same name>.
 Requests that already have a response file (or an error file) are skipped.
 
 On API failure, writes grok-relay/responses/<name>.error.md with the HTTP
-status and response body so the failure is visible in the repo. The API
-token is read from the GITHUB_TOKEN environment variable only; it is never
-written to a file or printed.
+status, the Content-Type and the first 1000 characters of the raw response
+body (captured before any JSON parsing) so the failure is visible in the
+repo. The API token is read from the GITHUB_TOKEN environment variable
+only; it is never written to a file or printed.
 """
 
 import json
@@ -25,6 +26,21 @@ ENDPOINT = "https://models.github.ai/inference/chat/completions"
 MODEL = "xai/grok-3"
 
 
+class ApiResponseError(Exception):
+    """An HTTP response was received but could not be used.
+
+    Carries the raw response details (status, Content-Type, body) captured
+    before JSON parsing, so they can be recorded in the error file.
+    """
+
+    def __init__(self, status, content_type, body, note):
+        super().__init__(note)
+        self.status = status
+        self.content_type = content_type
+        self.body = body
+        self.note = note
+
+
 def call_model(prompt: str, token: str) -> str:
     payload = {
         "model": MODEL,
@@ -39,9 +55,34 @@ def call_model(prompt: str, token: str) -> str:
         },
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=180) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-    return data["choices"][0]["message"]["content"]
+    try:
+        with urllib.request.urlopen(req, timeout=180) as resp:
+            status = resp.status
+            content_type = resp.headers.get("Content-Type", "")
+            raw = resp.read()
+    except urllib.error.HTTPError as e:
+        raw = e.read()
+        raise ApiResponseError(
+            e.code,
+            e.headers.get("Content-Type", "") if e.headers else "",
+            raw.decode("utf-8", errors="replace"),
+            f"HTTP {e.code} {e.reason}",
+        ) from e
+    body = raw.decode("utf-8", errors="replace")
+    if status != 200:
+        raise ApiResponseError(status, content_type, body, f"HTTP {status}")
+    try:
+        data = json.loads(body)
+    except json.JSONDecodeError as e:
+        raise ApiResponseError(
+            status, content_type, body, f"JSONDecodeError: {e}"
+        ) from e
+    try:
+        return data["choices"][0]["message"]["content"]
+    except (KeyError, IndexError, TypeError) as e:
+        raise ApiResponseError(
+            status, content_type, body, f"Unexpected JSON structure: {e}"
+        ) from e
 
 
 def main() -> int:
@@ -64,13 +105,16 @@ def main() -> int:
         print(f"processing {name} ({len(prompt)} chars)")
         try:
             answer = call_model(prompt, token)
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", errors="replace")
+        except ApiResponseError as e:
             err_path.write_text(
-                f"# Error for {name}\n\nHTTP {e.code} {e.reason}\n\n```\n{body}\n```\n",
+                f"# Error for {name}\n\n"
+                f"- HTTP status: {e.status}\n"
+                f"- Content-Type: {e.content_type}\n"
+                f"- Detail: {e.note}\n\n"
+                f"Response body (first 1000 chars):\n\n```\n{e.body[:1000]}\n```\n",
                 encoding="utf-8",
             )
-            print(f"error {name}: HTTP {e.code}")
+            print(f"error {name}: HTTP {e.status} ({e.note})")
             failures += 1
             continue
         except Exception as e:
